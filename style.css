@@ -81,6 +81,10 @@ h1{
     .container{
         width: 100%;
     }
+     .sol{
+         display: flex;
+         flex-direction:column
+     }
     
 }
 
